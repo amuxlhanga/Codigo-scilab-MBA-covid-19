@@ -7,9 +7,3 @@ The model is applied to study the dynamics of the spread of COVID-19 under scena
 
 
 
-
-
-# Codigo-scilab-MBA-covid-19
-Codigo scilab do modelo MBA sobre o estudo da dinâmica da COVID-19.
-Aplica-se o modelo para o  estudo da dinâmica da propagação da COVID-19 sob cenários de padrões de movimento da população a nível da Cidade de Maputo.
- O propósito é  ajudar as unidades competentes na tomada de  decisões futuras sobre a evolução da COVID-19. Para o efeito, desenvolveu-se um Modelo Baseado em Agentes (MBA) para averiguar o impacto dos padrões de movimento de pessoas em combinação com o cumprimento das diferentes medidas de prevenção e mitigação da propagação da COVID-19. 
